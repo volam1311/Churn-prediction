@@ -4,7 +4,8 @@ Nowadays, many companies experience customer churn, which can cause big lost in 
     
 __What is churn?__
 - Churn refers to the rate at which customers stop doing business with a company, often expressed as a percentage of total customers or revenue.
-- Churn rate can be expressed as $$ \frac{\text{number\_of\_churn}}{\text{total\_custormer}} * 100\% $$
+- Churn rate can be expressed as
+![Formula Image](formula.png)
 
 __Necessary of churn analysis and prediction__
 - Many companies need data analysts and data scientists to find the causes of this problem and reduces the number of customer churn
